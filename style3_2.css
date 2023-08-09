@@ -1,0 +1,17 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(194, 221, 190);
+}
+.container {
+    border: 2px solid black;
+    width: 1200px;
+    margin: auto;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap; 
+}
+.box {
+    width: 30%;
+    margin: auto
+}
